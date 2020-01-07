@@ -1,0 +1,1 @@
+**sudo dpkg -i** sogoupinyin_2.1.0.0082_amd64.deb    --安装安装包
