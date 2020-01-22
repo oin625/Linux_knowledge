@@ -33,3 +33,7 @@ nslookup
 >kill + id
 >
 >killall + name
+
+查看文件所在位置
+
+> whcih codeblocks
